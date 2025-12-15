@@ -1,4 +1,5 @@
-# Student Grade Tracker Application
+# Grade-Tracker
+This Java/IntelliJ-runnable application allows you to use a virtual grade book to calculate students' averages in their classes, complete with edit/add/delete functionality for both individual students and grades they possess.
 
 ## Course Topic Map
 
